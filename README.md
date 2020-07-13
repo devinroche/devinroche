@@ -1,25 +1,8 @@
-### Hi there 👋
+### Hi there I'm Devin
 
-#### 🔭 Working
-Passfolio, an app allowing other countries to invest in the US commission-free!! :smile:
-
-#### 🌱 Learning
-Playing around with next.js to try and optimize my daily workflow.
-
-#### Reading
-Currently reading Born a Crime by Trevor Noah
-
-#### 📫 How to reach me
-- [twitter](https://twitter.com/devinroche)
-
-<!--
-**devinroche/devinroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![devinroche.com](https://img.shields.io/static/v1?label=devinroche.com&message=%20&color=blue&logo=&style=flat-square&logoColor=white)](https://www.devinroche.com/)
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/devinroche/)  
+  
+👨‍💻 24 Years old Developer  
+👨‍🎓 Studied Computer Science at Gonzaga University
+🚧 **Currently At:** [Passfolio](https://www.passfolio.us/)
